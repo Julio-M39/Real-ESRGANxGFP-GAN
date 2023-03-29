@@ -9,6 +9,6 @@ OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
 ### Resultados 
 
 <div>
-<img src="https://user-images.githubusercontent.com/54995990/228564605-777537de-88e7-475a-a2c9-2899a65c8d38.png" width="1080px" />
+<img src="https://user-images.githubusercontent.com/54995990/228570296-7a2d9555-ec2b-4da2-9900-6eff36d4a96e.png" width="1080px" />
 </div>
 
