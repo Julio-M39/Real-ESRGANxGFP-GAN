@@ -12,3 +12,6 @@ OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
 <img src="https://user-images.githubusercontent.com/54995990/228570296-7a2d9555-ec2b-4da2-9900-6eff36d4a96e.png" width="1080px" />
 </div>
 
+<div>
+<img src="https://user-images.githubusercontent.com/54995990/228572857-6c838b33-8dc9-4f78-82b6-00e7e190794b.png" width="1080px" />
+</div>
